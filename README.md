@@ -8,7 +8,7 @@
 
 Welcome to **UP Zaika**, a premium, fully responsive food delivery web application built entirely with Vanilla web technologies. It features a modern Glassmorphism UI, smooth animations, and a backend-less checkout system!
 
-🌍 **Live Demo:** [Click here to view live](Yahan_Apna_GitHub_Pages_Ka_Link_Dalein)
+🌍 **Live Demo:** [Click here to view live](https://ashishkfrontend.github.io/UP-zaika-food-delivery/)
 
 ---
 
