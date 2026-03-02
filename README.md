@@ -2,6 +2,8 @@
 "A modern, fully responsive food delivery website featuring Glassmorphism UI, Dark Mode, dynamic cart, and backend-less email checkout using Vanilla JS."
 # 🥘 UP Zaika - Modern Food Delivery Website
 
+<img width="1895" height="872" alt="Screenshot 2026-03-02 112239" src="https://github.com/user-attachments/assets/6cd4ef3a-6e00-4dfa-9bac-816901747928" />
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
